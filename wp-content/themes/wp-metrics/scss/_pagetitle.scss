@@ -1,0 +1,298 @@
+.cms-breadcrumb {
+    margin-bottom: 0;
+    margin-left: -4px;
+    margin-right: -4px;
+    padding: 0;
+    display: inline-block;
+    position: relative;
+    text-align: center;
+    font-size: 13px;
+    line-height: $line_height_general;
+    color: #646464;
+
+    a,
+    span {
+        display: inline-block;
+        padding: 2px 4px;
+        vertical-align: middle;
+    }
+    
+    a {
+        color: #333;
+        text-decoration: none;
+        &:hover,
+        &:focus {
+            color: $color_primary;
+        }
+    }
+}
+
+.cms-page-title {
+    position: relative;
+    text-align: center;
+    line-height: $line_height_general;
+    background-color: #F7F7F7;
+    background-image: url( "../images/default-page-title.png" );
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+
+    .page-title-inner {
+        position: relative;
+        z-index: 1;
+    }
+
+    .page-title-text {
+        .title {
+            font-weight: 800;
+            color: #222;
+            letter-spacing: 0.031em;
+            margin-bottom: 0;
+            line-height: $line_height_heading_general;
+        }
+        .subtitle {
+            font-style: italic;
+            color: #474747;
+            margin-bottom: 0;
+        }
+
+    }
+
+    &.page-title-layout-1 {
+        .cms-breadcrumb {
+            padding-bottom: 15px;
+            &:after {
+                content: '';
+                display: block;
+                position: absolute;
+                height: 2px;
+                bottom: 0;
+                left: 4px;
+                right: 4px;
+                background-color: #222;
+            }
+        }
+    }
+}
+
+@media ( max-width: 767px ) {
+    .cms-page-title {
+        padding-top: 96px;
+        .page-title-text {
+            .title {
+                font-size: 24px;
+            }
+            .subtitle {
+                font-size: 12px;
+            }
+        }
+        .cms-breadcrumb {
+            font-size: 11px;
+        }
+    }
+}
+
+@media ( max-width: 991px ) {
+    .cms-page-title {
+        padding-top: 96px;
+        padding-bottom: 72px;
+        .page-title-placeholder {
+            display: none;
+        }
+        &.page-title-layout-1 {
+            padding-bottom: 0;
+            .page-title-breadcrumb {
+                padding-top: 48px;
+            }
+            .cms-breadcrumb {
+                padding-bottom: 4px;
+            }
+        }
+    }
+}
+
+@media ( min-width: 768px ) and ( max-width: 991px ) {
+    .cms-page-title {
+        .page-title-text {
+            .title {
+                font-size: 32px;
+            }
+            .subtitle {
+                font-size: 14px;
+            }
+        }
+        .cms-breadcrumb {
+            font-size: 12px;
+        }
+        .page-title-text + .page-title-breadcrumb {
+            margin-top: 16px;
+        }
+        &.page-title-layout-1 {
+            .page-title-breadcrumb {
+                padding-top: 52px;
+            }
+            .cms-breadcrumb {
+                padding-bottom: 4px;
+            }
+        }
+    }
+}
+
+@media (min-width: 992px) {
+    .cms-page-title {
+        .page-title-text {
+            .title {
+                font-size: 45px;
+            }
+            .subtitle {
+                font-size: 17px;
+                color: #474747;
+            }
+        }
+        .title + .subtitle {
+            margin-top: 13px;
+        }
+        .subtitle + .page-title-breadcrumb {
+            margin-top: 15px;
+        }
+        .title + .page-title-breadcrumb {
+            margin-top: 9px;
+        }
+        &.page-title-layout-large {
+            display: table;
+            width: 100%;
+            height: 100vh;
+            .page-title-inner {
+                display: table-cell;
+                vertical-align: bottom;
+                
+            }
+        }
+        &.page-title-layout-1 {
+            .page-title-text {
+                padding-top: 138px;
+                padding-bottom: 139px;
+            }
+            .cms-breadcrumb {
+                padding-bottom: 15px;
+            }
+        }
+        &.page-title-layout-2 {
+            .page-title-text {
+                padding-top: 138px;
+                padding-bottom: 177px;
+            }
+        }
+        &.page-title-layout-3 {
+            .page-title-text {
+                padding-top: 138px;
+                padding-bottom: 218px;
+            }
+        }
+        &.page-title-layout-4 {
+            .page-title-text {
+                padding-top: 138px;
+                padding-bottom: 139px;
+            }
+        }
+        &.page-title-layout-5 {
+            .page-title-text {
+                padding-top: 138px;
+                padding-bottom: 139px;
+            }
+        }
+        &.page-title-layout-6 {
+            .page-title-text {
+                padding-top: 138px;
+                padding-bottom: 139px;
+            }
+        }
+        &.page-title-layout-7 {
+            .page-title-text {
+                padding-top: 110px;
+                padding-bottom: 115px;
+            }
+        }
+        &.page-title-layout-8,
+        &.page-title-layout-11 {
+            .cms-breadcrumb {
+                a {
+                    color: #5D5D5D;
+                    &:hover,
+                    &:focus {
+                        color: $color_primary;
+                    }
+                }
+            }
+            .page-title-text {
+                .title {
+                    color: #FFF;
+                }
+                .subtitle {
+                    color: #999;
+                }
+            }
+        }
+        &.page-title-layout-8 {
+            .page-title-text {
+                padding-top: 110px;
+                padding-bottom: 115px;
+            }
+        }
+        &.page-title-layout-9,
+        &.page-title-layout-10,
+        &.page-title-layout-11 {
+            .container {
+                padding-left: 0;
+                padding-right: 0;
+            }
+            .page-title-elements {
+                display: table;
+                width: 100%;
+            }
+            .page-title-text,
+            .page-title-breadcrumb {
+                display: table-cell;
+                width: 50%;
+                vertical-align: middle;
+                padding-left: 15px;
+                padding-right: 15px;
+            }
+            .page-title-text {
+                text-align: left;
+            }
+            .page-title-breadcrumb {
+                text-align: right;
+            }
+        }
+        &.page-title-layout-9 {
+            .page-title-inner {
+                padding-top: 112px;
+                padding-bottom: 146px;
+            }
+            .cms-breadcrumb {
+                padding-top: 14px;
+            }
+        }
+        &.page-title-layout-10 {
+            .page-title-inner {
+                padding-top: 99px;
+                padding-bottom: 99px;
+            }
+        }
+        &.page-title-layout-11 {
+            .page-title-inner {
+                padding-top: 99px;
+                padding-bottom: 99px;
+            }
+        }
+    }
+}
+
+@media (min-width: 1200px) {
+    .cms-page-title {
+        &.page-title-layout-large {
+            max-height: 800px;
+        }
+    }
+}

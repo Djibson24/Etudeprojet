@@ -1,0 +1,12 @@
+2021-06-21T11:08:40+00:00 CRITICAL Uncaught RuntimeException: Impossible de demander des actions. Erreur de la base de données. in C:\xampp\htdocs\Etudeprojet\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_DBStore.php:675
+Stack trace:
+#0 C:\xampp\htdocs\Etudeprojet\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_DBStore.php(599): ActionScheduler_DBStore->claim_actions(0, 25, NULL, Array, '')
+#1 C:\xampp\htdocs\Etudeprojet\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_QueueRunner.php(153): ActionScheduler_DBStore->stake_claim(25)
+#2 C:\xampp\htdocs\Etudeprojet\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_QueueRunner.php(132): ActionScheduler_QueueRunner->do_batch(25, 'WP Cron')
+#3 C:\xampp\htdocs\Etudeprojet\wp-includes\class-wp-hook.php(292): ActionScheduler_QueueRunner->run('WP Cron')
+#4 C:\xampp\htdocs\Etudeprojet\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters('', Array dans C:\xampp\htdocs\Etudeprojet\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_DBStore.php à la ligne 675
+
+2021-06-21T11:57:33+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Etudeprojet\wp-includes\Requests\Transport\cURL.php on line 441
+
+2021-06-21T12:03:14+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Etudeprojet\wp-includes\Requests\Transport\cURL.php on line 441
+

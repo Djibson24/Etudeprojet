@@ -1,0 +1,424 @@
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"],
+.btn {
+    display: inline-block;
+    max-width: 100%;
+    background-color: transparent;
+    padding: 11.5px 32px 12.5px;
+    border-width: 2px;
+    border-style: solid;
+    position: relative;
+    text-align: center;
+    line-height: $line_height_13;
+    font-size: $font_size_small;
+    font-weight: bold;
+    text-transform: uppercase;
+    @include transition( background-color 250ms, color 250ms, border-color 250ms );
+    &:hover,
+    &:focus {
+        box-shadow: none;
+    }
+    &:focus {
+        outline: none;
+    }
+    // Base border colors
+    &,
+    &.btn-filled,
+    &.btn-hover-dark:hover,
+    &.btn-hover-dark:focus {
+        border-color: #222222;
+    }
+    &.btn-white,
+    &.btn-hover-white:hover,
+    &.btn-hover-white:focus {
+        border-color: #FFFFFF;
+    }
+    &.btn-primary,
+    &.btn-hover-primary:hover,
+    &.btn-hover-primary:focus {
+        border-color: $color_primary;
+    }
+    // Base Background
+    &.btn-filled {
+        &,
+        &:visited {
+            background-color: #222222;
+        }
+        &.btn-primary,
+        &.btn-primary:visited {
+            background-color: $color_primary;
+        }
+        &.btn-white,
+        &.btn-white:visited {
+            background-color: #FFFFFF;
+        }
+    }
+    // Default hover backgrounds
+    &:hover,
+    &:focus,
+    &.btn-hover-dark:hover,
+    &.btn-hover-dark:focus,
+    &.btn-primary.btn-hover-dark:hover,
+    &.btn-primary.btn-hover-dark:focus,
+    &.btn-white.btn-hover-dark:hover,
+    &.btn-white.btn-hover-dark:focus {
+        background-color: #222222;
+    }
+    &.btn-primary:hover,
+    &.btn-primary:focus,
+    &.btn-hover-primary:hover,
+    &.btn-hover-primary:focus,
+    &.btn-white.btn-hover-primary:hover,
+    &.btn-white.btn-hover-primary:focus, {
+        background-color: $color_primary;
+    }
+    &.btn-white:hover,
+    &.btn-white:focus,
+    &.btn-hover-white:hover,
+    &.btn-hover-white:focus,
+    &.btn-primary.btn-hover-white:hover,
+    &.btn-primary.btn-hover-white:focus, {
+        background-color: #FFFFFF;
+    }
+    // Filled hover backgrounds
+    &.btn-filled,
+    &.btn-white.btn-filled,
+    &.btn-primary.btn-filled {
+        &:hover,
+        &:focus {
+            background-color: transparent;
+        }
+    }
+    // Base Colors
+    &,
+    &:visited,
+    &.btn-filled.btn-white,
+    &.btn-filled.btn-white:visited {
+        color: #222222;
+    }
+    &.btn-filled,
+    &.btn-filled:visited,
+    &.btn-filled.btn-primary,
+    &.btn-filled.btn-primary:visited,
+    &.btn-white,
+    &.btn-white:visited {
+        color: #FFFFFF;
+    }
+    &.btn-primary,
+    &.btn-primary:visited {
+        color: $color_primary;
+    }
+    // Default hover colors
+    &:hover,
+    &:focus,
+    &.btn-primary:hover,
+    &.btn-primary:focus,
+    &.btn-hover-dark:hover,
+    &.btn-hover-dark:focus,
+    &.btn-white.btn-hover-dark:hover,
+    &.btn-white.btn-hover-dark:focus,
+    &.btn-hover-primary:hover,
+    &.btn-hover-primary:focus,
+    &.btn-white.btn-hover-primary:hover,
+    &.btn-white.btn-hover-primary:focus {
+        color: #ffffff;
+    }
+    &.btn-white:hover,
+    &.btn-white:focus,
+    &.btn-hover-white:hover,
+    &.btn-hover-white:focus {
+        color: $color_primary;
+    }
+    // Filled hover colors
+    &.btn-filled {
+        &:hover,
+        &:focus,
+        &.btn-hover-dark:hover,
+        &.btn-hover-dark:focus,
+        &.btn-primary.btn-hover-dark:hover,
+        &.btn-primary.btn-hover-dark:focus,
+        &.btn-white.btn-hover-dark:hover,
+        &.btn-white.btn-hover-dark:focus {
+            color: #222222;
+        }
+        &.btn-white:hover,
+        &.btn-white:focus,
+        &.btn-hover-white:hover,
+        &.btn-hover-white:focus,
+        &.btn-primary.btn-hover-white:hover,
+        &.btn-primary.btn-hover-white:focus {
+            color: #FFFFFF;
+        }
+        &.btn-primary:hover,
+        &.btn-primary:focus,
+        &.btn-hover-primary:hover,
+        &.btn-hover-primary:focus {
+            color: $color_primary;
+        }
+    }
+
+    // Button sizes
+    &.btn-block {
+        display: block;
+        width: 100%;
+        box-sizing: border-box;
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+    &.btn-small {
+        padding: 7px 24px 8px;
+    }
+    &.btn-tiny {
+        font-size: 12px;
+        font-weight: normal;
+        padding: 0 4.25px;
+        line-height: 1.5833;
+    }
+
+    // Button icon
+    &.btn-icon-left {
+        .btn-icon {
+            margin-right: 4px;
+        }
+    }
+    &.btn-icon-right {
+        .btn-icon {
+            margin-left: 4px;
+        }
+    }
+}
+
+a.btn,
+a.button,
+.edit-link > a {
+    text-decoration: none;
+}
+
+.edit-link {
+    display: block;
+    margin-top: 48px;
+}
+
+.woocommerce a.button.loading {
+    &:after {
+        font-family: FontAwesome;
+        content: "\f110";
+        vertical-align: top;
+        -webkit-font-smoothing: antialiased;
+        font-weight: 400;
+        position: absolute;
+        top: auto;
+        right: 1em;
+        font-weight: normal;
+        @include animation( fa-spin 2s linear infinite )
+    }
+}
+
+.entry-pricing-plans {
+    .entry-footer {
+        .btn {
+            @include transition( color 250ms, background-color 250ms, border-color 250ms, padding 250ms );
+            .pricing-action-icon {
+                display: inline-block;
+                width: 16px;
+                margin-right: -26px;
+                margin-left: 10px;
+                opacity: 0;
+                @include transition( margin 250ms, opacity 250ms );
+            }
+            &:hover,
+            &:focus {
+                padding-left: 12px;
+                padding-right: 12px;
+                .pricing-action-icon {
+                    margin-right: 0px;
+                    opacity: 1;
+                }
+            }
+        }
+    }
+}
+
+
+// Form fields
+//------------------------------------------------------------
+input[type="text"],
+input[type="email"],
+input[type="url"],
+input[type="password"],
+input[type="search"],
+input[type="number"],
+input[type="tel"],
+input[type="range"],
+input[type="date"],
+input[type="month"],
+input[type="week"],
+input[type="time"],
+input[type="datetime"],
+input[type="datetime-local"],
+input[type="color"],
+textarea,
+select,
+.select2-container .select2-choice {
+    font-size: $font_size_small;
+    line-height: $line_height_13;
+    color: #7F7F7F;
+    border-radius: 0;
+    padding: 12px;
+    border: 2px solid #F4F4F4;
+    max-width: 100%;
+    background-color: transparent;
+    @include placeholder() {
+        color: #9B9B9B;
+        opacity: 1;
+    }
+    &:focus {
+        box-shadow: none;
+        outline: none;
+    }
+    &.form-field-light {
+        border-color: rgba(255,255,255,0.15);
+        color: #CCC;
+    }
+}
+
+textarea {
+    padding-top: 16px;
+    padding-bottom: 16px;
+    &.form-field-sm {
+        padding-top: 12px;
+        padding-bottom: 12px;
+    }
+}
+select {
+    padding-top: 11px;
+    padding-bottom: 12px;
+}
+.cms-select {
+    overflow: hidden;
+    position: relative;
+    display: inline-block;
+    max-width: 100%;
+    > select {
+        position: relative;
+        background-color: transparent;
+        width: 100%;
+        z-index: 1;
+        padding-right: 24px;
+    }
+    &:after {
+        content: '\f107';
+        font-family: FontAwesome;
+        font-size: 12px;
+        line-height: 1;
+        display: block;
+        position: absolute;
+        top: 50%;
+        right: 10px;
+        @include transform( translateY(-50%) );
+        z-index: 0;
+    }
+}
+select {
+    width: 100%;
+    @include appearance( none );
+    text-indent: 1px;
+    text-overflow: elipsis;
+    &::-ms-expand {
+        display: none;
+    }
+}
+
+
+// Form field at specific positions
+//------------------------------------------------------------
+
+.comment-form {
+    .comment-form-field-input,
+    .comment-form-comment textarea {
+        padding: 7px 18px 8px;
+    }
+    #comment,
+    .comment-form-field-input {
+        width: 100%;
+    }
+    .comment-form-author,
+    .comment-form-email,
+    .comment-form-url,
+    .comment-form-comment {
+        margin-bottom: 20px;
+    }
+    .form-submit {
+        margin-top: 30px;
+    }
+}
+.site-footer {
+    input[type="text"],
+    input[type="email"],
+    input[type="url"],
+    input[type="password"],
+    input[type="search"],
+    input[type="number"],
+    input[type="tel"],
+    input[type="range"],
+    input[type="date"],
+    input[type="month"],
+    input[type="week"],
+    input[type="time"],
+    input[type="datetime"],
+    input[type="datetime-local"],
+    input[type="color"],
+    textarea,
+    select {
+        background-color: transparent;
+        border-color: rgba( 255, 255, 255, 0.15 );
+    }
+    .cms-select {
+        &:after {
+            color: inherit;
+        }
+    }
+}
+
+// Form variations
+//------------------------------------------------------------
+.search-form,
+.woocommerce-product-search {
+    position: relative;
+
+    .search-field {
+        width: 100%;
+        padding-right: 36px;
+    }
+    .search-submit {
+        padding: 0;
+        border: none;
+        height: 24px;
+        line-height: 24px;
+        position: absolute;
+        right: 20px;
+        top: 50%;
+        margin-top: -12px;
+        background-color: transparent;
+        &:hover,
+        &:focus {
+            color: $color_primary;
+        }
+    }
+}
+
+
+// Small fix for ie9-
+//------------------------------------------------------------
+html.lte-ie-9 {
+    .cms-select {
+        &::after {
+            display: none;
+        }
+    }
+    select {
+        padding-right: 0;
+    }
+}

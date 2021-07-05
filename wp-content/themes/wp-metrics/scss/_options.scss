@@ -1,0 +1,46 @@
+// Colors
+$color_primary: #43B4AE;
+$color_link_primary_menu: #222222;
+$color_link_primary_menu_hover: #222222;
+$color_link_primary_menu_active: #222222;
+$color_link_sub_menu: #7f7f7f;
+$color_link_sub_menu_hover: #ffffff;
+$color_link_sub_menu_active: #ffffff;
+$color_link_widget: #7f7f7f;
+$color_link_widget_hover: #43b4ae;
+$color_link_widget_active: #43b4ae;
+$color_link: $color_primary;
+$color_dark_1: #646464;
+$color_dark_2: #474747;
+$color_dark_3: #222222;
+$color_gray_1: #7F7F7F;
+$color_gray_2: #9B9B9B;
+$color_body: #9B9B9B;
+
+// Font Families
+$font_body: "Droid Serif","Times New Roman",Times,serif;
+$font_alt_1:"Open Sans",Arial,Helvetica,sans-serif;
+$font_alt_2:Lora,"Times New Roman",Times,serif;
+$font_alt_3:Raleway,Arial,Helvetica,sans-serif;
+
+// Font Sizes
+$font_size_body: 14px;
+$font_size_xlarge:17px;
+$font_size_large:15px;
+$font_size_small:13px;
+$font_size_xsmall:12px;
+$font_size_header_main_menu:13px;
+$font_size_header_extras:12px;
+$font_size_header_top:12px;
+$font_size_footer_widget_title:16px;
+$font_size_footer_main:12px;
+$font_size_footer_top:13px;
+$font_size_footer_bottom:13px;
+$font_size_post_single:15px;
+$font_size_widget:13px;
+$font_size_widget_title:16px;
+
+// Line heights
+$line_height_body: 23px/$font_size_body;
+
+// Misc

@@ -1,0 +1,302 @@
+.cms-metabox a:focus {
+    outline: none;
+    box-shadow: none;
+}
+.cms-metabox .cms-field-wrapper {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    border-bottom: 1px solid #EEE;
+}
+.cms-metabox .cms-field-wrapper .cms-field-title { font-size: 13px; font-weight: bold; margin-bottom: 4px; }
+.cms-metabox .cms-field-wrapper .cms-field-title > p { margin: 0; }
+.cms-metabox .cms-field-wrapper .field-desc { margin: 0.5em 0 0; }
+.cms-metabox .cms-field-wrapper .button > * { line-height: inherit; }
+.cms-metabox .cms-field { margin-bottom: 0; }
+.cms-metabox .cms-field-with-icon {
+    position: relative;
+    white-space: nowrap;
+    display: inline-block;
+    max-width: 100%;
+    width: 60%;
+}
+.cms-metabox .cms-field-with-icon.cms-field-icon-right > input[type="text"] {
+    padding-right: 32px;
+    width: 100%;
+}
+.cms-metabox .cms-field-with-icon > .icon {
+    position: absolute;
+    right: 4px;
+}
+.cms-metabox .cms-field-with-icon > .icon.dashicons {
+    top: 50%;
+    margin-top: -10px;
+}
+.cms-metabox .field-select-2 {
+    width: 100%;
+}
+
+@media (min-width:768px) {
+    .cms-metabox .cms-field-wrapper .cms-field-title,
+    .cms-metabox .cms-field-wrapper .cms-field-content {
+        display: inline-block;
+        vertical-align: top;
+    }
+    .cms-metabox .cms-field-wrapper .cms-field-title {
+        width: 25%;
+        padding-right: 12px;
+        margin-bottom: 0;
+    }
+    .cms-metabox .cms-field-wrapper .cms-field-content {
+        width: 70%;
+    }
+
+    .cms-metabox .cms-field-wrapper input[type="text"],
+    .cms-metabox .cms-field-wrapper input[type="email"],
+    .cms-metabox .cms-field-wrapper input[type="url"],
+    .cms-metabox .cms-field-wrapper input[type="tel"],
+    .cms-metabox .cms-field-wrapper input[type="password"],
+    .cms-metabox .cms-field-wrapper input[type="search"],
+    .cms-metabox .cms-field-wrapper select,
+    .cms-metabox .cms-field-wrapper textarea,
+    .cms-metabox .field-select-2 {
+        width: 60%;
+    }
+}
+
+.cms-metabox .field-switcher label {
+    display: inline-block;
+    width: 38px;
+    height: 20px;
+    border-radius: 22px;
+    cursor: pointer;
+    position: relative;
+    background-color: #fff;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px;
+    -webkit-transition: background-color 0.3s ease-out;
+    transition: background-color 0.3s ease-out;
+}
+.cms-metabox .field-switcher input[type="checkbox"] {
+    display: none;
+}
+.cms-metabox .field-switcher span {
+    display: block;
+    width: 22px;
+    height: 22px;
+    position: absolute;
+    top: -1px;
+    left: 0;
+    border-radius: 12px;
+    background-color: #fff;
+    left: 0px;
+    box-shadow: rgba(0, 0, 0, 0.1) 1px 1px 1px 1px;
+    -webkit-transition: left 0.3s ease-out;
+    transition: left 0.3s ease-out;
+}
+.cms-metabox .field-switcher input[type="checkbox"]:checked + label {
+    background-color: #4dd865;
+    box-shadow: none;
+}
+.cms-metabox .field-switcher input[type="checkbox"]:checked + label > span {
+    left: 18px;
+}
+.cms-metabox .field-button-group {}
+.cms-metabox .field-button-group input[type="radio"]{
+    display: none;
+}
+.cms-metabox .field-button-group label {
+    display: inline-block;
+    font-size: 12px;
+    padding: 4px 10px;
+    border: 1px solid #DCDCDC;
+    margin-left: -1px;
+    position: relative;
+    background-color: #FCFCFC;
+}
+.cms-metabox .field-button-group label:hover,
+.cms-metabox .field-button-group input[type="radio"]:checked + label {
+    background-color: #FFF;
+    border-color: #32A0DF;
+    z-index: 1;
+}
+.cms-metabox .field-button-group input[type="radio"]:checked + label {
+    background-color: #32A0DF;
+    color: #FFF;
+}
+.cms-metabox .field-image {}
+
+.cms-metabox .field-image .images {
+    margin: 0;
+}
+.cms-metabox .field-image .images li {
+    display: inline-block;
+    width: 72px;
+    height: 72px;
+    background-image: url(../images/transparent.png);
+    margin: 1px;
+    position: relative;
+}
+.cms-metabox .field-image .images li.image:after {
+    content: '';
+    display: block;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 20px;
+    background-color: #FFF;
+    opacity: 0.75;
+}
+.cms-metabox .field-image .images li a {
+    display: block;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    margin-top: -10px;
+    text-decoration: none;
+    color: #000;
+    opacity: 0.6;
+    z-index: 1;
+}
+.cms-metabox .field-image .images li a:hover {
+    opacity: 1;
+}
+.cms-metabox .field-image .images li a.image-add {
+    bottom: auto;
+    top: 50%;
+    margin-top: -10px;
+    margin-left: -10px;
+}
+.cms-metabox .field-image .images li a.image-edit {
+    margin-left: -20px;
+}
+.cms-metabox .field-image .images li a.image-delete {
+    color: red;
+}
+.cms-metabox .field-color .wp-color-result {
+    margin-bottom: 0;
+}
+
+.cms-metabox .field-file > * { margin-right: 2px; }
+
+.cms-metabox .field-image-select {}
+.cms-metabox .field-image-select ul {
+    margin: 0
+}
+
+.cms-metabox .field-image-select ul li {
+    display: inline-block;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    border: 4px solid #EEE;
+}
+.cms-metabox .field-image-select ul li img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+.cms-metabox .field-image-select ul li:hover {
+    border-color: #CCC;
+}
+.cms-metabox .field-image-select ul li.active {
+    border-color: #32A0DF;
+}
+.cms-metabox .field-number {
+    position: relative;
+    display: inline-block;
+}
+.cms-metabox .field-number .field-number-tools {
+    display: inline-block;
+    vertical-align: middle;
+    width: 20px;
+    height: 40%;
+    position: absolute;
+    right: 3px;
+    cursor: pointer;
+    background-color: #FAFAFA;
+    box-shadow: inset 0px 0px 0px 1px #DCDCDC;
+}
+.cms-metabox .field-number .field-number-tools:hover {
+    background-color: #ccc;
+    border-color: #999
+}
+.cms-metabox .field-number .field-number-tools:before,
+.cms-metabox .field-number .field-number-tools:after {
+    content: '';
+    display: block;
+    background-color: #333;
+    position: absolute;
+}
+
+.cms-metabox .field-number .field-number-tools:before {
+    width: 5px;
+    height: 1px;
+    left: 50%;
+    margin-left: -2px;
+    top: 50%;
+}
+.cms-metabox .field-number .field-number-tools.plus:after {
+    width: 1px;
+    height: 5px;
+    left: 50%;
+    top: 50%;
+    margin-top: -2px;
+}
+.cms-metabox .field-number .field-number-tools.minus {
+    top: 50%;
+}
+.cms-metabox .field-number .field-number-tools.plus {
+    top: 10%;
+}
+.cms-metabox .field-number > input[type="text"] {
+    width: auto;
+}
+
+.cms-metabox .cms-metabox-tabs {
+    margin-bottom: 0;
+}
+.cms-metabox .cms-metabox-tabs li {
+    display: inline-block;
+    margin: 0 0 0 -1px;
+    position: relative;
+    border-top: 2px solid #EBEBEB;
+}
+.cms-metabox .cms-metabox-tabs li:first-child {
+    margin-left: 0;
+}
+.cms-metabox .cms-metabox-tabs li a {
+    font-size: 14px;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #666;
+    display: block;
+    background-color: #FCFCFC;
+    border-left: 1px solid #EBEBEB;
+    border-right: 1px solid #EBEBEB;
+    padding: 16px 24px;
+}
+.cms-metabox .cms-metabox-tabs li:hover,
+.cms-metabox .cms-metabox-tabs li.ui-tabs-active {
+    border-top-color: #32A0DF;
+    z-index: 2;
+}
+
+.cms-metabox .cms-metabox-tabs li:hover a,
+.cms-metabox .cms-metabox-tabs li a:hover,
+.cms-metabox .cms-metabox-tabs li a:focus,
+.cms-metabox .cms-metabox-tabs li.ui-tabs-active > a {
+    color: #333;
+    background-color: #FFF;
+}
+.cms-metabox .cms-metabox-tabs li.ui-tabs-active > a {
+    font-weight: bold;
+}
+.cms-metabox .cms-metabox-tab-content {
+    border: 1px solid #EBEBEB;
+    margin-top: -1px;
+    padding: 15px;
+    position: relative;
+    z-index: 1;
+}

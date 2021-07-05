@@ -1,0 +1,3934 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-09-13 15:47+0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr__;esc_attr_e;_x;_n\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+"X-Poedit-SearchPathExcluded-1: boot\n"
+
+#: cmssuperheroes.php:93 shortcodes/cms_carousel.php:499
+#: shortcodes/cms_carousel.php:507 shortcodes/cms_counter.php:622
+#: shortcodes/cms_counter.php:630 shortcodes/cms_counter_single.php:259
+#: shortcodes/cms_counter_single.php:267 shortcodes/cms_fancybox.php:612
+#: shortcodes/cms_fancybox.php:620 shortcodes/cms_fancybox_single.php:264
+#: shortcodes/cms_fancybox_single.php:272 shortcodes/cms_grid.php:85
+#: shortcodes/cms_grid.php:93 shortcodes/cms_progressbar.php:249
+#: shortcodes/cms_progressbar.php:255
+msgid "Template"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:16
+msgid "Asterisk"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:17
+msgid "Plus"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:18
+msgid "Minus"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:19
+msgid "Euro"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:20
+msgid "Cloud"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:21
+msgid "Envelope"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:22
+msgid "Pencil"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:23
+msgid "Glass"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:24
+msgid "Music"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:25
+msgid "Search"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:26
+msgid "Heart"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:27
+msgid "Star"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:28
+msgid "Star Empty"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:29
+msgid "User"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:30
+msgid "Film"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:31
+msgid "Th Large"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:32
+msgid "Th"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:33
+msgid "Th List"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:34
+msgid "Ok"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:35
+msgid "Remove"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:36
+msgid "Zoom In"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:37
+msgid "Zoom Out"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:38
+msgid "Off"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:39
+msgid "Signal"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:40
+msgid "Cog"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:41
+msgid "Trash"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:42
+msgid "Home"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:43
+msgid "File"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:44
+msgid "Time"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:45
+msgid "Road"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:46
+msgid "Download Alt"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:47
+msgid "Download"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:48
+msgid "Upload"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:49
+msgid "Inbox"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:50
+msgid "Play Circle"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:51
+msgid "Repeat"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:52
+msgid "Refresh"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:53
+msgid "List Alt"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:54
+msgid "Lock"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:55
+msgid "Flag"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:56
+msgid "Headphones"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:57
+msgid "Volume Off"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:58
+msgid "Volume Down"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:59
+msgid "Volume Up"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:60
+msgid "Qrcode"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:61
+msgid "Barcode"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:62
+msgid "Tag"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:63
+msgid "Tags"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:64
+msgid "Book"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:65
+msgid "Bookmark"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:66
+msgid "Print"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:67 includes/fontlibs/pe7stroke.php:202
+msgid "Camera"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:68
+msgid "Font"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:69
+msgid "Bold"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:70
+msgid "Italic"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:71
+msgid "Text Height"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:72
+msgid "Text Width"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:73
+msgid "align-left"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:74
+msgid "align-right"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:75
+msgid "align-center"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:76
+msgid "align-justify"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:77
+msgid "List"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:78
+msgid "indent-left"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:79
+msgid "indent-right"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:80
+msgid "facetime-video"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:81
+msgid "Picture"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:82
+msgid "map-marker"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:83
+msgid "Adjust"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:84
+msgid "Tint"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:85
+msgid "Edit"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:86
+msgid "Share"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:87
+msgid "Check"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:88
+msgid "Move"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:89
+msgid "step-backward"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:90
+msgid "fast-backward"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:91
+msgid "Backward"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:92
+msgid "Play"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:93
+msgid "Pause"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:94
+msgid "Stop"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:95
+msgid "Forward"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:96
+msgid "fast-forward"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:97
+msgid "step-forward"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:98
+msgid "Eject"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:99
+msgid "chevron-left"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:100
+msgid "chevron-right"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:101
+msgid "plus-sign"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:102
+msgid "minus-sign"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:103
+msgid "remove-sign"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:104
+msgid "ok-sign"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:105
+msgid "question-sign"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:106
+msgid "info-sign"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:107
+msgid "Screenshot"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:108
+msgid "remove-circle"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:109
+msgid "ok-circle"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:110
+msgid "ban-circle"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:111
+msgid "arrow-left"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:112
+msgid "arrow-right"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:113
+msgid "arrow-up"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:114
+msgid "arrow-down"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:115 includes/fontlibs/glyphicons.php:131
+msgid "share-alt"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:116 includes/fontlibs/glyphicons.php:132
+msgid "resize-full"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:117 includes/fontlibs/glyphicons.php:133
+msgid "resize-small"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:118 includes/fontlibs/glyphicons.php:134
+msgid "exclamation-sign"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:119
+msgid "Gift"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:120
+msgid "Leaf"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:121
+msgid "Fire"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:122 includes/fontlibs/glyphicons.php:138
+msgid "eye-open"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:123 includes/fontlibs/glyphicons.php:139
+msgid "eye-close"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:124 includes/fontlibs/glyphicons.php:140
+msgid "warning-sign"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:125 includes/fontlibs/glyphicons.php:141
+#: includes/fontlibs/pe7stroke.php:120
+msgid "plane"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:126 includes/fontlibs/glyphicons.php:143
+msgid "random"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:127 includes/fontlibs/glyphicons.php:144
+#: includes/fontlibs/pe7stroke.php:195
+msgid "comment"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:128 includes/fontlibs/glyphicons.php:145
+#: includes/fontlibs/pe7stroke.php:151
+msgid "magnet"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:129 includes/fontlibs/glyphicons.php:146
+#: includes/fontlibs/glyphicons.php:147
+msgid "chevron-up"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:130
+msgid "chevron-down"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:135 includes/fontlibs/pe7stroke.php:173
+msgid "gift"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:136 includes/fontlibs/pe7stroke.php:30
+msgid "leaf"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:137
+msgid "fire"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:142
+msgid "calendar"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:148
+msgid "retweet"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:149
+msgid "shopping-cart"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:150
+msgid "folder-close"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:151
+msgid "folder-open"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:152
+msgid "resize-vertical"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:153
+msgid "resize-horizontal"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:154
+msgid "hdd"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:155
+msgid "bullhorn"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:156 includes/fontlibs/pe7stroke.php:210
+msgid "bell"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:157
+msgid "certificate"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:158
+msgid "thumbs-up"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:159
+msgid "thumbs-down"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:160
+msgid "hand-right"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:161
+msgid "hand-left"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:162
+msgid "hand-up"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:163
+msgid "hand-down"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:164
+msgid "circle-arrow-right"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:165
+msgid "circle-arrow-left"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:166
+msgid "circle-arrow-up"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:167
+msgid "circle-arrow-down"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:168
+msgid "globe"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:169
+msgid "wrench"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:170
+msgid "tasks"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:171 includes/fontlibs/pe7stroke.php:176
+msgid "filter"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:172
+msgid "briefcase"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:173
+msgid "fullscreen"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:174
+msgid "dashboard"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:175 includes/fontlibs/pe7stroke.php:106
+msgid "paperclip"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:176
+msgid "heart-empty"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:177 includes/fontlibs/pe7stroke.php:156
+msgid "link"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:178 includes/fontlibs/pe7stroke.php:124
+msgid "phone"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:179
+msgid "pushpin"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:180
+msgid "usd"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:181
+msgid "gbp"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:182
+msgid "sort"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:183
+msgid "sort-by-alphabet"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:184
+msgid "sort-by-alphabet-alt"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:185
+msgid "sort-by-order"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:186
+msgid "sort-by-order-alt"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:187
+msgid "sort-by-attributes"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:188
+msgid "sort-by-attributes-alt"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:189
+msgid "unchecked"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:190
+msgid "expand"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:191
+msgid "collapse-down"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:192
+msgid "collapse-up"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:193
+msgid "log-in"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:194
+msgid "flash"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:195
+msgid "log-out"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:196
+msgid "new-window"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:197
+msgid "record"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:198
+msgid "save"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:199
+msgid "open"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:200
+msgid "saved"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:201
+msgid "import"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:202
+msgid "export"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:203
+msgid "send"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:204
+msgid "floppy-disk"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:205
+msgid "floppy-saved"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:206
+msgid "floppy-remove"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:207
+msgid "floppy-save"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:208
+msgid "floppy-open"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:209
+msgid "credit-card"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:210
+msgid "transfer"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:211
+msgid "cutlery"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:212
+msgid "header"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:213
+msgid "compressed"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:214
+msgid "earphone"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:215
+msgid "phone-alt"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:216
+msgid "tower"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:217
+msgid "stats"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:218
+msgid "sd-video"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:219
+msgid "hd-video"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:220
+msgid "subtitles"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:221
+msgid "sound-stereo"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:222
+msgid "sound-dolby"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:223
+msgid "sound-5-1"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:224
+msgid "sound-6-1"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:225
+msgid "sound-7-1"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:226
+msgid "copyright-mark"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:227
+msgid "registration-mark"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:228
+msgid "cloud-download"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:229
+msgid "cloud-upload"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:230
+msgid "tree-conifer"
+msgstr ""
+
+#: includes/fontlibs/glyphicons.php:231
+msgid "tree-deciduous"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:16
+msgid "Album"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:17
+msgid "arc"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:18
+msgid "back-2"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:19
+msgid "bandaid"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:20
+msgid "car"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:21
+msgid "diamond"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:22
+msgid "door-lock"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:23
+msgid "eyedropper"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:24
+msgid "female"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:25
+msgid "gym"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:26
+msgid "hammer"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:27
+msgid "headphones"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:28
+msgid "helm"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:29
+msgid "hourglass"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:31
+msgid "magic wand"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:32
+msgid "male"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:33
+msgid "map 2"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:34
+msgid "next 2"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:35
+msgid "paint bucket"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:36
+msgid "pendrive"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:37
+msgid "photo"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:38
+msgid "piggy"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:39
+msgid "plugin"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:40
+msgid "refresh 2"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:41
+msgid "rocket"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:42
+msgid "settings"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:43
+msgid "shield"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:44
+msgid "smile"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:45
+msgid "usb"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:46
+msgid "vector"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:47
+msgid "wine"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:48
+msgid "cloud upload"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:49
+msgid "cash"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:50
+msgid "close"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:51
+msgid "bluetooth"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:52
+msgid "cloud download"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:53
+msgid "way"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:54
+msgid "close circle"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:55
+msgid "id"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:56
+msgid "angle up"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:57
+msgid "wristwatch"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:58
+msgid "angle upcircle"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:59
+msgid "world"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:60
+msgid "Angle Right"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:61
+msgid "volume"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:62
+msgid "angle right circle"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:63
+msgid "Users"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:64
+msgid "angle left"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:65
+msgid "user female"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:66
+msgid "angle left circle"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:67
+msgid "Up Arrow"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:68
+msgid "Angle Down"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:69
+msgid "switch"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:70
+msgid "angle down circle"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:71
+msgid "scissors"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:72
+msgid "wallet"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:73
+msgid "safe"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:74
+msgid "volume2"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:75
+msgid "volume1"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:76
+msgid "voice mail"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:77
+msgid "video"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:78
+msgid "user"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:79
+msgid "upload"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:80
+msgid "unlock"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:81
+msgid "umbrella"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:82
+msgid "trash"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:83
+msgid "tools"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:84
+msgid "timer"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:85
+msgid "ticket"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:86
+msgid "target"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:87
+msgid "sun"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:88
+msgid "study"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:89
+msgid "stopwatch"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:90
+msgid "star"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:91
+msgid "speaker"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:92
+msgid "signal"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:93
+msgid "shuffle"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:94
+msgid "shopbag"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:95
+msgid "share"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:96
+msgid "server"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:97
+msgid "search"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:98
+msgid "film"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:99
+msgid "science"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:100
+msgid "disk"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:101
+msgid "ribbon"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:102
+msgid "repeat"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:103
+msgid "refresh"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:104
+msgid "add user"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:105
+msgid "refresh cloud"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:107
+msgid "radio"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:108
+msgid "note2"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:109
+msgid "print"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:110
+msgid "network"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:111
+msgid "prev"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:112
+msgid "mute"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:113
+msgid "power"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:114
+msgid "medal"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:115
+msgid "portfolio"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:116
+msgid "like2"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:117
+msgid "plus"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:118
+msgid "play"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:119
+msgid "key"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:121
+msgid "joy"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:122
+msgid "photo gallery"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:123
+msgid "pin"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:125
+msgid "plug"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:126
+msgid "pen"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:127
+msgid "paper plane"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:128
+msgid "delete user"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:129
+msgid "paint"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:130
+msgid "top arrow"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:131
+msgid "right arrow"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:132
+msgid "bottom arrow"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:133
+msgid "left arrow"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:134
+msgid "notebook"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:135
+msgid "note"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:136
+msgid "next"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:137
+msgid "news paper"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:138
+msgid "musiclist"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:139
+msgid "music"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:140
+msgid "mouse"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:141
+msgid "more"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:142
+msgid "moon"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:143
+msgid "monitor"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:144
+msgid "micro"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:145
+msgid "menu"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:146
+msgid "map"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:147
+msgid "map marker"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:148
+msgid "mail"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:149
+msgid "mail open"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:150
+msgid "mail open file"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:152
+msgid "loop"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:153
+msgid "look"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:154
+msgid "lock"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:155
+msgid "lintern"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:157
+msgid "like"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:158
+msgid "light"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:159
+msgid "less"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:160
+msgid "keypad"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:161
+msgid "junk"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:162
+msgid "info"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:163
+msgid "home"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:164
+msgid "help2"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:165
+msgid "help1"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:166 includes/fontlibs/pe7stroke.php:169
+msgid "graph3"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:167
+msgid "graph2"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:168
+msgid "graph1"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:170
+msgid "global"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:171
+msgid "gleam"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:172
+msgid "glasses"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:174
+msgid "folder"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:175
+msgid "flag"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:177
+msgid "file"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:178
+msgid "expand1"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:179
+msgid "expand2"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:180
+msgid "edit"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:181
+msgid "drop"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:182
+msgid "drawer"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:183
+msgid "download"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:184
+msgid "display2"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:185
+msgid "display1"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:186
+msgid "diskette"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:187
+msgid "date"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:188
+msgid "cup"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:189
+msgid "culture"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:190
+msgid "crop"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:191
+msgid "credit"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:192
+msgid "copy file"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:193
+msgid "config"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:194
+msgid "compass"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:196
+msgid "coffee"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:197
+msgid "cloud"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:198
+msgid "clock"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:199
+msgid "check"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:200
+msgid "chat"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:201
+msgid "cart"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:203
+msgid "call"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:204
+msgid "calculator"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:205
+msgid "browser"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:206
+msgid "box2"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:207
+msgid "box1"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:208
+msgid "bookmarks"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:209
+msgid "bicycle"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:211
+msgid "battery"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:212
+msgid "ball"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:213
+msgid "back"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:214
+msgid "attention"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:215
+msgid "anchor"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:216
+msgid "albums"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:217
+msgid "alarm"
+msgstr ""
+
+#: includes/fontlibs/pe7stroke.php:218
+msgid "airplay"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:16
+msgid "rt-icon-ok"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:17
+msgid "rt-icon-youtube"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:18
+msgid "rt-icon-times"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:19
+msgid "rt-icon-image"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:20
+msgid "rt-icon-phone"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:21
+msgid "rt-icon-heart"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:22
+msgid "rt-icon-microphone"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:23
+msgid "rt-icon-rss-outline"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:24
+msgid "rt-icon-message"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:25
+msgid "rt-icon-location-outline"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:26
+msgid "rt-icon-link-outline"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:27
+msgid "rt-icon-image-outline"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:28
+msgid "rt-icon-export-outline"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:29
+msgid "rt-icon-cross"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:30
+msgid "rt-icon-star-outline"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:31
+msgid "rt-icon-mail"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:32
+msgid "rt-icon-heart-outline"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:33
+msgid "rt-icon-flash-outline"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:34
+msgid "rt-icon-arrow-move-outline"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:35
+msgid "rt-icon-watch"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:36
+msgid "rt-icon-time"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:37
+msgid "rt-icon-location-arrow-outline"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:38
+msgid "rt-icon-attachment-outline"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:39
+msgid "rt-icon-user-outline"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:40
+msgid "rt-icon-lock-closed-outline"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:41
+msgid "rt-icon-lock-open-outline"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:42
+msgid "rt-icon-group-outline"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:43
+msgid "rt-icon-chart-pie-outline"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:44
+msgid "rt-icon-video-outline"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:45
+msgid "rt-icon-key-outline"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:46
+msgid "rt-icon-infinity-outline"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:47
+msgid "rt-icon-globe-outline"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:48
+msgid "rt-icon-eye-outline"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:49
+msgid "rt-icon-cog-outline"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:50
+msgid "rt-icon-camera-outline"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:51
+msgid "rt-icon-scissors-outline"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:52
+msgid "rt-icon-refresh-outline"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:53
+msgid "rt-icon-zoom-outline "
+msgstr ""
+
+#: includes/fontlibs/rticon.php:54
+msgid "rt-icon-pin-outline"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:55
+msgid "rt-icon-message-typing"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:56
+msgid "rt-icon-folder"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:57
+msgid "rt-icon-pencil"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:58
+msgid "rt-icon-thumbs-up"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:59
+msgid "rt-icon-brush"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:60
+msgid "rt-icon-pen"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:61
+msgid "rt-icon-calender-outline"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:62
+msgid "rt-icon-business-card"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:63
+msgid "rt-icon-calculator"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:64
+msgid "rt-icon-clipboard"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:65
+msgid "rt-icon-gift"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:66
+msgid "rt-icon-bell"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:67
+msgid "rt-icon-anchor-outline"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:68
+msgid "rt-icon-power-outline"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:69
+msgid "rt-icon-shopping-bag"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:70
+msgid "rt-icon-device-tablet"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:71
+msgid "rt-icon-device-phone"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:72
+msgid "rt-icon-device-laptop"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:73
+msgid "rt-icon-device-desktop"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:74
+msgid "rt-icon-spanner-outline"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:75
+msgid "rt-icon-puzzle-outline"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:76
+msgid "rt-icon-printer"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:77
+msgid "rt-icon-lightbulb"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:78
+msgid "rt-icon-flag-outline"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:79
+msgid "rt-icon-contacts"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:80
+msgid "rt-icon-weather-stormy"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:81
+msgid "rt-icon-weather-shower"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:82
+msgid "rt-icon-weather-partly-sunny"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:83
+msgid "rt-icon-weather-downpour"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:84
+msgid "rt-icon-weather-cloudy"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:85
+msgid "rt-icon-plane-outline"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:86
+msgid "rt-icon-phone-outline"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:87
+msgid "rt-icon-microphone-outline"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:88
+msgid "rt-icon-weather-sunny"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:89
+msgid "rt-icon-weather-snow"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:90
+msgid "rt-icon-weather-night"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:91
+msgid "rt-icon-wine"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:92
+msgid "rt-icon-tags"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:93
+msgid "rt-icon-headphones"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:94
+msgid "rt-icon-plug"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:95
+msgid "rt-icon-credit-card"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:96
+msgid "rt-icon-coffee"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:97
+msgid "rt-icon-book"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:98
+msgid "rt-icon-beer"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:99
+msgid "rt-icon-tree"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:100
+msgid "rt-icon-thermometer"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:101
+msgid "rt-icon-messages"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:102
+msgid "rt-icon-shopping-cart"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:103
+msgid "rt-icon-leaf"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:104
+msgid "rt-icon-volume"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:105
+msgid "rt-icon-microphone2"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:106
+msgid "rt-icon-paperclip"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:107
+msgid "rt-icon-trashcan"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:108
+msgid "rt-icon-search"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:109
+msgid "rt-icon-chat"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:110
+msgid "rt-icon-calendar"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:111
+msgid "rt-icon-bookmark"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:112
+msgid "rt-icon-email"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:113
+msgid "rt-icon-heart2"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:114
+msgid "rt-icon-cloud"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:115
+msgid "rt-icon-book2"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:116
+msgid "rt-icon-star"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:117
+msgid "rt-icon-clock"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:118
+msgid "rt-icon-users"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:119
+msgid "rt-icon-user"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:120
+msgid "rt-icon-bullhorn"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:121
+msgid "rt-icon-diamond"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:122
+msgid "rt-icon-drink"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:123
+msgid "rt-icon-shorts"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:124
+msgid "rt-icon-syringe"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:125
+msgid "rt-icon-barbell"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:126
+msgid "rt-icon-chart"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:127
+msgid "rt-icon-pencil2"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:128
+msgid "rt-icon-newspaper"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:129
+msgid "rt-icon-earth"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:130
+msgid "rt-icon-clock2"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:131
+msgid "rt-icon-comment"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:132
+msgid "rt-icon-chat2"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:133
+msgid "rt-icon-speaker"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:134
+msgid "rt-icon-heart3"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:135
+msgid "rt-icon-list"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:136
+msgid "rt-icon-edit"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:137
+msgid "rt-icon-trash"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:138
+msgid "rt-icon-briefcase"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:139
+msgid "rt-icon-calendar2"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:140
+msgid "rt-icon-inbox"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:141
+msgid "rt-icon-google-plus"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:142
+msgid "rt-icon-instagram"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:143
+msgid "rt-icon-user2"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:144
+msgid "rt-icon-users2"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:145
+msgid "rt-icon-archive"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:146
+msgid "rt-icon-desktop"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:147
+msgid "rt-icon-sent"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:148
+msgid "rt-icon-share"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:149
+msgid "rt-icon-film"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:150
+msgid "rt-icon-tag"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:151
+msgid "rt-icon-email2"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:152
+msgid "rt-icon-picture"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:153
+msgid "rt-icon-frame"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:154
+msgid "rt-icon-locked"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:155
+msgid "rt-icon-pin"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:156
+msgid "rt-icon-search2"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:157
+msgid "rt-icon-home"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:158
+msgid "rt-icon-cart"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:159
+msgid "rt-icon-camera"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:160
+msgid "rt-icon-compass"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:161
+msgid "rt-icon-cloud2"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:162
+msgid "rt-icon-grid"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:163
+msgid "rt-icon-popup"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:164
+msgid "rt-icon-home2"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:165
+msgid "rt-icon-light-bulb"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:166
+msgid "rt-icon-store"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:167
+msgid "rt-icon-anchor"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:168
+msgid "rt-icon-book3"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:169
+msgid "rt-icon-sound-alt"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:170
+msgid "rt-icon-inbox2"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:171
+msgid "rt-icon-inbox-alt"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:172
+msgid "rt-icon-envelope"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:173
+msgid "rt-icon-compose"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:174
+msgid "rt-icon-chat-alt-stroke"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:175
+msgid "rt-icon-rss"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:176
+msgid "rt-icon-cog"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:177
+msgid "rt-icon-pin2"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:178
+msgid "rt-icon-link"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:179
+msgid "rt-icon-key-stroke"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:180
+msgid "rt-icon-lightbulb2"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:181
+msgid "rt-icon-book-alt2"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:182
+msgid "rt-icon-book4"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:183
+msgid "rt-icon-book-alt"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:184
+msgid "rt-icon-pen-alt-stroke"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:185
+msgid "rt-icon-layers"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:186
+msgid "rt-icon-paperclip2"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:187
+msgid "rt-icon-fork"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:188
+msgid "rt-icon-uniF756"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:189
+msgid "rt-icon-uniF765"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:190
+msgid "rt-icon-uniF794"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:191
+msgid "rt-icon-uniF56B"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:192
+msgid "rt-icon-fish"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:193
+msgid "rt-icon-cupcake"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:194
+msgid "rt-icon-pizza"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:195
+msgid "rt-icon-cherry"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:196
+msgid "rt-icon-mushroom"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:197
+msgid "rt-icon-bone"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:198
+msgid "rt-icon-steak"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:199
+msgid "rt-icon-bottle"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:200
+msgid "rt-icon-restaurantmenu"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:201
+msgid "rt-icon-coffeebean"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:202
+msgid "rt-icon-chocolate"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:203
+msgid "rt-icon-raspberry"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:204
+msgid "rt-icon-raspberrypi"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:205
+msgid "rt-icon-birthday"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:206
+msgid "rt-icon-sun"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:207
+msgid "rt-icon-moon"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:208
+msgid "rt-icon-cloudy"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:209
+msgid "rt-icon-cloud3"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:210
+msgid "rt-icon-cloud4"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:211
+msgid "rt-icon-lightning"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:212
+msgid "rt-icon-rainy"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:213
+msgid "rt-icon-snowy"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:214
+msgid "rt-icon-mobile"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:215
+msgid "rt-icon-ipod"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:216
+msgid "rt-icon-monitor"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:217
+msgid "rt-icon-laptop"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:218
+msgid "rt-icon-window"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:219
+msgid "rt-icon-mouse"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:220
+msgid "rt-icon-quote"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:221
+msgid "rt-icon-quote2"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:222
+msgid "rt-icon-microphone3"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:223
+msgid "rt-icon-cog2"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:224
+msgid "rt-icon-gamepad"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:225
+msgid "rt-icon-graduate"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:226
+msgid "rt-icon-lab"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:227
+msgid "rt-icon-tie"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:228
+msgid "rt-icon-heart4"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:229
+msgid "rt-icon-cloud5"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:230
+msgid "rt-icon-star2"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:231
+msgid "rt-icon-tv"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:232
+msgid "rt-icon-sound"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:233
+msgid "rt-icon-video"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:234
+msgid "rt-icon-trash2"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:235
+msgid "rt-icon-user3"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:236
+msgid "rt-icon-key"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:237
+msgid "rt-icon-search3"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:238
+msgid "rt-icon-eye"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:239
+msgid "rt-icon-bubble"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:240
+msgid "rt-icon-stack"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:241
+msgid "rt-icon-cup"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:242
+msgid "rt-icon-phone2"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:243
+msgid "rt-icon-news"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:244
+msgid "rt-icon-mail2"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:245
+msgid "rt-icon-like"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:246
+msgid "rt-icon-photo"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:247
+msgid "rt-icon-note"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:248
+msgid "rt-icon-food"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:249
+msgid "rt-icon-t-shirt"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:250
+msgid "rt-icon-fire"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:251
+msgid "rt-icon-clip"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:252
+msgid "rt-icon-shop"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:253
+msgid "rt-icon-calendar3"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:254
+msgid "rt-icon-wallet"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:255
+msgid "rt-icon-vynil"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:256
+msgid "rt-icon-truck"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:257
+msgid "rt-icon-world"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:258
+msgid "rt-icon-settings"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:259
+msgid "rt-icon-camera2"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:260
+msgid "rt-icon-tag2"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:261
+msgid "rt-icon-lock"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:262
+msgid "rt-icon-bulb"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:263
+msgid "rt-icon-pen2"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:264
+msgid "rt-icon-diamond2"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:265
+msgid "rt-icon-display"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:266
+msgid "rt-icon-location"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:267
+msgid "rt-icon-clock3"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:268
+msgid "rt-icon-paperplane"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:269
+msgid "rt-icon-params"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:270
+msgid "rt-icon-banknote"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:271
+msgid "rt-icon-data"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:272
+msgid "rt-icon-music"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:273
+msgid "rt-icon-megaphone"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:274
+msgid "rt-icon-study"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:275
+msgid "rt-icon-lab2"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:276
+msgid "rt-icon-chat3"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:277
+msgid "rt-icon-archive2"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:278
+msgid "rt-icon-user4"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:279
+msgid "rt-icon-users3"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:280
+msgid "rt-icon-archive3"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:281
+msgid "rt-icon-earth2"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:282
+msgid "rt-icon-location2"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:283
+msgid "rt-icon-mobile2"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:284
+msgid "rt-icon-screen"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:285
+msgid "rt-icon-mail3"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:286
+msgid "rt-icon-support"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:287
+msgid "rt-icon-videos"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:288
+msgid "rt-icon-star3"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:289
+msgid "rt-icon-heart5"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:290
+msgid "rt-icon-bookmark2"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:291
+msgid "rt-icon-file"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:292
+msgid "rt-icon-locked2"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:293
+msgid "rt-icon-unlocked"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:294
+msgid "rt-icon-archive4"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:295
+msgid "rt-icon-images"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:296
+msgid "rt-icon-images2"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:297
+msgid "rt-icon-pencil3"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:298
+msgid "rt-icon-pictures"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:299
+msgid "rt-icon-link2"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:300
+msgid "rt-icon-search4"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:301
+msgid "rt-icon-cog3"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:302
+msgid "rt-icon-trashcan2"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:303
+msgid "rt-icon-pencil4"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:304
+msgid "rt-icon-article"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:305
+msgid "rt-icon-clock4"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:306
+msgid "rt-icon-heart6"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:307
+msgid "rt-icon-palette"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:308
+msgid "rt-icon-leaf2"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:309
+msgid "rt-icon-megaphone2"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:310
+msgid "rt-icon-bell2"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:311
+msgid "rt-icon-lifebuoy"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:312
+msgid "rt-icon-magnet"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:313
+msgid "rt-icon-light-bulb2"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:314
+msgid "rt-icon-flickr"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:315
+msgid "rt-icon-flickr2"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:316
+msgid "rt-icon-vimeo"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:317
+msgid "rt-icon-vimeo2"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:318
+msgid "rt-icon-twitter"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:319
+msgid "rt-icon-twitter2"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:320
+msgid "rt-icon-facebook"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:321
+msgid "rt-icon-facebook2"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:322
+msgid "rt-icon-facebook3"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:323
+msgid "rt-icon-googleplus"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:324
+msgid "rt-icon-googleplus2"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:325
+msgid "rt-icon-pinterest"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:326
+msgid "rt-icon-pinterest2"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:327
+msgid "rt-icon-tumblr"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:328
+msgid "rt-icon-tumblr2"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:329
+msgid "rt-icon-linkedin"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:330
+msgid "rt-icon-linkedin2"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:331
+msgid "rt-icon-dribbble"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:332
+msgid "rt-icon-dribbble2"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:333
+msgid "rt-icon-stumbleupon"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:334
+msgid "rt-icon-stumbleupon2"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:335
+msgid "rt-icon-lastfm"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:336
+msgid "rt-icon-lastfm2"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:337
+msgid "rt-icon-skype"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:338
+msgid "rt-icon-skype2"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:339
+msgid "rt-icon-behance"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:340
+msgid "rt-icon-vk"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:341
+msgid "rt-icon-smashing"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:342
+msgid "rt-icon-dropbox"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:343
+msgid "rt-icon-evernote"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:344
+msgid "rt-icon-picasa"
+msgstr ""
+
+#: includes/fontlibs/rticon.php:345
+msgid ".rt-icon-instagram2"
+msgstr ""
+
+#: includes/wordpress-importer/parsers.php:42
+#: includes/wordpress-importer/parsers.php:63
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: includes/wordpress-importer/parsers.php:43
+msgid "Details are shown above. The importer will now try again with a different parser..."
+msgstr ""
+
+#: includes/wordpress-importer/parsers.php:67
+#: includes/wordpress-importer/parsers.php:72
+#: includes/wordpress-importer/parsers.php:262
+#: includes/wordpress-importer/parsers.php:447
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:134
+#: includes/wordpress-importer/wordpress-importer.php:185
+#: includes/wordpress-importer/wordpress-importer.php:189
+#: includes/wordpress-importer/wordpress-importer.php:198
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:169
+msgid "All done."
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:169
+msgid "Have fun!"
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:170
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:190
+#, php-format
+msgid "The export file could not be found at <code>%s</code>. It is likely that this was caused by a permissions problem."
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:206
+#, php-format
+msgid "This WXR file (version %s) may not be supported by this version of the importer. Please consider updating."
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:231
+#, php-format
+msgid "Failed to import author %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:257
+msgid "Assign Authors"
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:258
+msgid "To make it easier for you to edit and save the imported content, you may want to reassign the author of the imported item to an existing user of this site. For example, you may want to import all the entries as <code>admin</code>s entries."
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:260
+#, php-format
+msgid "If a new user is created by WordPress, a new password will be randomly generated and the new user&#8217;s role will be set as %s. Manually changing the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:270
+msgid "Import Attachments"
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:273
+msgid "Download and import file attachments"
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:277
+msgid "Submit"
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:290
+msgid "Import author:"
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:301
+msgid "or create new user with login name:"
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:304
+msgid "as a new user:"
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:312
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:314
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:315
+msgid "- Select -"
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:365
+#, php-format
+msgid "Failed to create new user for %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:414
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:452
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:496
+#: includes/wordpress-importer/wordpress-importer.php:624
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:518
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:539
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:596
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:760
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:767
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:830
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:843
+msgid "Invalid file type"
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:887
+msgid "Remote server did not respond"
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:893
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:900
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:905
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:911
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:1023
+msgid "Import WordPress"
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:1030
+#, php-format
+msgid "A new version of this importer is available. Please update to version %s to ensure compatibility with newer export files."
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:1045
+msgid "Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import the posts, pages, comments, custom fields, categories, and tags into this site."
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:1046
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:1121
+msgid "Import <strong>posts, pages, comments, custom fields, categories, and tags</strong> from a WordPress export file."
+msgstr ""
+
+#: libraries/wpml.class.php:23
+msgid "The wpml plugin don't exists"
+msgstr ""
+
+#: shortcodes/cms_base.php:26
+#, php-format
+msgid "Template file is missing for `%s` shortcode. Make sure you have `%s` file in your theme folder."
+msgstr ""
+
+#: shortcodes/cms_carousel.php:4
+msgid "CMS Carousel"
+msgstr ""
+
+#: shortcodes/cms_carousel.php:7 shortcodes/cms_counter.php:7
+#: shortcodes/cms_counter_single.php:7 shortcodes/cms_fancybox.php:7
+#: shortcodes/cms_fancybox_single.php:7 shortcodes/cms_grid.php:7
+#: shortcodes/cms_progressbar.php:7
+msgid "CmsSuperheroes Shortcodes"
+msgstr ""
+
+#: shortcodes/cms_carousel.php:11 shortcodes/cms_grid.php:11
+msgid "Source"
+msgstr ""
+
+#: shortcodes/cms_carousel.php:17 shortcodes/cms_grid.php:17
+msgid "Source Settings"
+msgstr ""
+
+#: shortcodes/cms_carousel.php:21
+msgid "XSmall Devices"
+msgstr ""
+
+#: shortcodes/cms_carousel.php:26 shortcodes/cms_carousel.php:35
+#: shortcodes/cms_carousel.php:44 shortcodes/cms_carousel.php:53
+#: shortcodes/cms_carousel.php:61 shortcodes/cms_carousel.php:71
+#: shortcodes/cms_carousel.php:81 shortcodes/cms_carousel.php:91
+#: shortcodes/cms_carousel.php:101 shortcodes/cms_carousel.php:111
+#: shortcodes/cms_carousel.php:123 shortcodes/cms_carousel.php:131
+#: shortcodes/cms_carousel.php:145 shortcodes/cms_carousel.php:164
+#: shortcodes/cms_carousel.php:181 shortcodes/cms_carousel.php:198
+#: shortcodes/cms_carousel.php:215 shortcodes/cms_carousel.php:232
+#: shortcodes/cms_carousel.php:249 shortcodes/cms_carousel.php:266
+#: shortcodes/cms_carousel.php:283 shortcodes/cms_carousel.php:300
+#: shortcodes/cms_carousel.php:317 shortcodes/cms_carousel.php:337
+#: shortcodes/cms_carousel.php:354 shortcodes/cms_carousel.php:371
+#: shortcodes/cms_carousel.php:388 shortcodes/cms_carousel.php:405
+#: shortcodes/cms_carousel.php:422 shortcodes/cms_carousel.php:439
+#: shortcodes/cms_carousel.php:456 shortcodes/cms_carousel.php:473
+#: shortcodes/cms_carousel.php:490
+msgid "Carousel Settings"
+msgstr ""
+
+#: shortcodes/cms_carousel.php:30
+msgid "Small Devices"
+msgstr ""
+
+#: shortcodes/cms_carousel.php:39
+msgid "Medium Devices"
+msgstr ""
+
+#: shortcodes/cms_carousel.php:48
+msgid "Large Devices"
+msgstr ""
+
+#: shortcodes/cms_carousel.php:57
+msgid "Margin Items"
+msgstr ""
+
+#: shortcodes/cms_carousel.php:65
+msgid "Loop Items"
+msgstr ""
+
+#: shortcodes/cms_carousel.php:75
+msgid "Mouse Drag"
+msgstr ""
+
+#: shortcodes/cms_carousel.php:85
+msgid "Show Nav"
+msgstr ""
+
+#: shortcodes/cms_carousel.php:95
+msgid "Show Dots"
+msgstr ""
+
+#: shortcodes/cms_carousel.php:105
+msgid "Auto Play"
+msgstr ""
+
+#: shortcodes/cms_carousel.php:115
+msgid "Auto Play TimeOut"
+msgstr ""
+
+#: shortcodes/cms_carousel.php:127
+msgid "Smart Speed"
+msgstr ""
+
+#: shortcodes/cms_carousel.php:130
+msgid "Speed scroll of each item"
+msgstr ""
+
+#: shortcodes/cms_carousel.php:135
+msgid "Pause On Hover"
+msgstr ""
+
+#: shortcodes/cms_carousel.php:150 shortcodes/cms_carousel.php:323
+#: shortcodes/cms_counter_single.php:58 shortcodes/cms_fancybox_single.php:41
+#: shortcodes/cms_progressbar.php:31
+msgid "Icon library"
+msgstr ""
+
+#: shortcodes/cms_carousel.php:152 shortcodes/cms_carousel.php:325
+#: shortcodes/cms_counter_single.php:60 shortcodes/cms_fancybox_single.php:43
+#: shortcodes/cms_progressbar.php:33
+msgid "Font Awesome"
+msgstr ""
+
+#: shortcodes/cms_carousel.php:153 shortcodes/cms_carousel.php:326
+#: shortcodes/cms_counter_single.php:61 shortcodes/cms_fancybox_single.php:44
+#: shortcodes/cms_progressbar.php:34
+msgid "Open Iconic"
+msgstr ""
+
+#: shortcodes/cms_carousel.php:154 shortcodes/cms_carousel.php:327
+#: shortcodes/cms_counter_single.php:62 shortcodes/cms_fancybox_single.php:45
+#: shortcodes/cms_progressbar.php:35
+msgid "Typicons"
+msgstr ""
+
+#: shortcodes/cms_carousel.php:155 shortcodes/cms_carousel.php:328
+#: shortcodes/cms_counter_single.php:63 shortcodes/cms_fancybox_single.php:46
+#: shortcodes/cms_progressbar.php:36
+msgid "Entypo"
+msgstr ""
+
+#: shortcodes/cms_carousel.php:156 shortcodes/cms_carousel.php:329
+#: shortcodes/cms_counter_single.php:64 shortcodes/cms_fancybox_single.php:47
+#: shortcodes/cms_progressbar.php:37
+msgid "Linecons"
+msgstr ""
+
+#: shortcodes/cms_carousel.php:157 shortcodes/cms_carousel.php:330
+#: shortcodes/cms_counter_single.php:65 shortcodes/cms_fancybox_single.php:48
+#: shortcodes/cms_progressbar.php:38
+msgid "Pixel"
+msgstr ""
+
+#: shortcodes/cms_carousel.php:158 shortcodes/cms_carousel.php:331
+#: shortcodes/cms_counter_single.php:66 shortcodes/cms_fancybox_single.php:49
+#: shortcodes/cms_progressbar.php:39
+msgid "P7 Stroke"
+msgstr ""
+
+#: shortcodes/cms_carousel.php:159 shortcodes/cms_carousel.php:332
+#: shortcodes/cms_counter_single.php:67 shortcodes/cms_fancybox_single.php:50
+msgid "RT Icon"
+msgstr ""
+
+#: shortcodes/cms_carousel.php:163 shortcodes/cms_carousel.php:336
+#: shortcodes/cms_counter_single.php:71 shortcodes/cms_fancybox_single.php:54
+#: shortcodes/cms_progressbar.php:42
+msgid "Select icon library."
+msgstr ""
+
+#: shortcodes/cms_carousel.php:168 shortcodes/cms_carousel.php:185
+#: shortcodes/cms_carousel.php:202 shortcodes/cms_carousel.php:219
+#: shortcodes/cms_carousel.php:236 shortcodes/cms_carousel.php:253
+#: shortcodes/cms_carousel.php:270 shortcodes/cms_carousel.php:287
+#: shortcodes/cms_carousel.php:304
+msgid "Prev Icon"
+msgstr ""
+
+#: shortcodes/cms_carousel.php:180 shortcodes/cms_carousel.php:197
+#: shortcodes/cms_carousel.php:214 shortcodes/cms_carousel.php:231
+#: shortcodes/cms_carousel.php:248 shortcodes/cms_carousel.php:265
+#: shortcodes/cms_carousel.php:282 shortcodes/cms_carousel.php:299
+#: shortcodes/cms_carousel.php:316 shortcodes/cms_carousel.php:353
+#: shortcodes/cms_carousel.php:370 shortcodes/cms_carousel.php:387
+#: shortcodes/cms_carousel.php:404 shortcodes/cms_carousel.php:421
+#: shortcodes/cms_carousel.php:438 shortcodes/cms_carousel.php:455
+#: shortcodes/cms_carousel.php:472 shortcodes/cms_carousel.php:489
+#: shortcodes/cms_counter.php:118 shortcodes/cms_counter.php:244
+#: shortcodes/cms_counter.php:363 shortcodes/cms_counter.php:475
+#: shortcodes/cms_counter.php:576 shortcodes/cms_counter_single.php:88
+#: shortcodes/cms_counter_single.php:105 shortcodes/cms_counter_single.php:122
+#: shortcodes/cms_counter_single.php:139 shortcodes/cms_counter_single.php:156
+#: shortcodes/cms_counter_single.php:173 shortcodes/cms_counter_single.php:190
+#: shortcodes/cms_counter_single.php:207 shortcodes/cms_counter_single.php:224
+#: shortcodes/cms_fancybox.php:86 shortcodes/cms_fancybox.php:190
+#: shortcodes/cms_fancybox.php:288 shortcodes/cms_fancybox.php:380
+#: shortcodes/cms_fancybox.php:462 shortcodes/cms_fancybox.php:536
+#: shortcodes/cms_fancybox_single.php:71 shortcodes/cms_fancybox_single.php:88
+#: shortcodes/cms_fancybox_single.php:105
+#: shortcodes/cms_fancybox_single.php:122
+#: shortcodes/cms_fancybox_single.php:139
+#: shortcodes/cms_fancybox_single.php:156
+#: shortcodes/cms_fancybox_single.php:173
+#: shortcodes/cms_fancybox_single.php:190
+#: shortcodes/cms_fancybox_single.php:207 shortcodes/cms_progressbar.php:59
+#: shortcodes/cms_progressbar.php:76 shortcodes/cms_progressbar.php:93
+#: shortcodes/cms_progressbar.php:110 shortcodes/cms_progressbar.php:127
+#: shortcodes/cms_progressbar.php:144 shortcodes/cms_progressbar.php:161
+msgid "Select icon from library."
+msgstr ""
+
+#: shortcodes/cms_carousel.php:341 shortcodes/cms_carousel.php:358
+#: shortcodes/cms_carousel.php:375 shortcodes/cms_carousel.php:392
+#: shortcodes/cms_carousel.php:409 shortcodes/cms_carousel.php:426
+#: shortcodes/cms_carousel.php:443 shortcodes/cms_carousel.php:460
+#: shortcodes/cms_carousel.php:477
+msgid "Next Icon"
+msgstr ""
+
+#: shortcodes/cms_carousel.php:495 shortcodes/cms_counter.php:618
+#: shortcodes/cms_counter_single.php:255 shortcodes/cms_fancybox.php:608
+#: shortcodes/cms_fancybox_single.php:260 shortcodes/cms_grid.php:81
+#: shortcodes/cms_progressbar.php:245
+msgid "Extra Class"
+msgstr ""
+
+#: shortcodes/cms_carousel.php:506 shortcodes/cms_counter.php:626
+#: shortcodes/cms_counter_single.php:263 shortcodes/cms_fancybox.php:618
+#: shortcodes/cms_fancybox_single.php:270 shortcodes/cms_grid.php:92
+msgid "Shortcode Template"
+msgstr ""
+
+#: shortcodes/cms_counter.php:4
+msgid "CMS Counter"
+msgstr ""
+
+#: shortcodes/cms_counter.php:11 shortcodes/cms_counter_single.php:11
+#: shortcodes/cms_fancybox.php:11 shortcodes/cms_fancybox_single.php:11
+msgid "Title"
+msgstr ""
+
+#: shortcodes/cms_counter.php:15 shortcodes/cms_counter.php:23
+#: shortcodes/cms_counter.php:35 shortcodes/cms_counter_single.php:15
+#: shortcodes/cms_counter_single.php:23 shortcodes/cms_counter_single.php:35
+#: shortcodes/cms_fancybox.php:15 shortcodes/cms_fancybox.php:23
+#: shortcodes/cms_fancybox.php:35 shortcodes/cms_fancybox_single.php:15
+#: shortcodes/cms_fancybox_single.php:23 shortcodes/cms_fancybox_single.php:35
+msgid "General Settings"
+msgstr ""
+
+#: shortcodes/cms_counter.php:19 shortcodes/cms_counter_single.php:19
+#: shortcodes/cms_fancybox.php:19 shortcodes/cms_fancybox_single.php:19
+msgid "Description"
+msgstr ""
+
+#: shortcodes/cms_counter.php:27 shortcodes/cms_counter_single.php:27
+#: shortcodes/cms_fancybox.php:27 shortcodes/cms_fancybox_single.php:27
+msgid "Content Align"
+msgstr ""
+
+#: shortcodes/cms_counter.php:39 shortcodes/cms_fancybox.php:39
+msgid "Select Number Cols"
+msgstr ""
+
+#: shortcodes/cms_counter.php:48 shortcodes/cms_counter.php:65
+#: shortcodes/cms_counter.php:83 shortcodes/cms_counter.php:103
+#: shortcodes/cms_counter.php:119 shortcodes/cms_counter.php:137
+#: shortcodes/cms_counter.php:155 shortcodes/cms_counter.php:173
+#: shortcodes/cms_counter.php:188 shortcodes/cms_counter.php:205
+#: shortcodes/cms_counter.php:224 shortcodes/cms_counter.php:245
+#: shortcodes/cms_counter.php:262 shortcodes/cms_counter.php:279
+#: shortcodes/cms_counter.php:296 shortcodes/cms_counter.php:310
+#: shortcodes/cms_counter.php:326 shortcodes/cms_counter.php:344
+#: shortcodes/cms_counter.php:364 shortcodes/cms_counter.php:380
+#: shortcodes/cms_counter.php:396 shortcodes/cms_counter.php:412
+#: shortcodes/cms_counter.php:425 shortcodes/cms_counter.php:440
+#: shortcodes/cms_counter.php:457 shortcodes/cms_counter.php:476
+#: shortcodes/cms_counter.php:491 shortcodes/cms_counter.php:506
+#: shortcodes/cms_counter.php:521 shortcodes/cms_counter.php:531
+#: shortcodes/cms_counter.php:545 shortcodes/cms_counter.php:559
+#: shortcodes/cms_counter.php:577 shortcodes/cms_counter.php:589
+#: shortcodes/cms_counter.php:601 shortcodes/cms_counter.php:613
+#: shortcodes/cms_counter_single.php:43 shortcodes/cms_counter_single.php:53
+#: shortcodes/cms_counter_single.php:72 shortcodes/cms_counter_single.php:89
+#: shortcodes/cms_counter_single.php:106 shortcodes/cms_counter_single.php:123
+#: shortcodes/cms_counter_single.php:140 shortcodes/cms_counter_single.php:157
+#: shortcodes/cms_counter_single.php:174 shortcodes/cms_counter_single.php:191
+#: shortcodes/cms_counter_single.php:208 shortcodes/cms_counter_single.php:225
+#: shortcodes/cms_counter_single.php:234 shortcodes/cms_counter_single.php:242
+#: shortcodes/cms_counter_single.php:250
+msgid "Counters Settings"
+msgstr ""
+
+#: shortcodes/cms_counter.php:53
+msgid "Counter 1"
+msgstr ""
+
+#: shortcodes/cms_counter.php:69
+msgid "Title Counter 1"
+msgstr ""
+
+#: shortcodes/cms_counter.php:82 shortcodes/cms_counter.php:204
+#: shortcodes/cms_counter.php:325 shortcodes/cms_counter.php:439
+#: shortcodes/cms_counter.php:544 shortcodes/cms_counter_single.php:42
+#: shortcodes/cms_fancybox.php:120 shortcodes/cms_fancybox.php:222
+#: shortcodes/cms_fancybox.php:318 shortcodes/cms_fancybox.php:408
+#: shortcodes/cms_fancybox.php:486 shortcodes/cms_fancybox.php:560
+#: shortcodes/cms_fancybox_single.php:222
+msgid "Title Of Item"
+msgstr ""
+
+#: shortcodes/cms_counter.php:87
+msgid "Counter Type 1"
+msgstr ""
+
+#: shortcodes/cms_counter.php:107
+msgid "Icon Counter 1"
+msgstr ""
+
+#: shortcodes/cms_counter.php:123
+msgid "Digit 1"
+msgstr ""
+
+#: shortcodes/cms_counter.php:141
+msgid "Suffix 1"
+msgstr ""
+
+#: shortcodes/cms_counter.php:159
+msgid "Prefix 1"
+msgstr ""
+
+#: shortcodes/cms_counter.php:177
+msgid "Counter 2"
+msgstr ""
+
+#: shortcodes/cms_counter.php:192
+msgid "Title Counter 2"
+msgstr ""
+
+#: shortcodes/cms_counter.php:209
+msgid "Counter Type 2"
+msgstr ""
+
+#: shortcodes/cms_counter.php:228
+msgid "Icon Counter 2"
+msgstr ""
+
+#: shortcodes/cms_counter.php:249
+msgid "Digit 2"
+msgstr ""
+
+#: shortcodes/cms_counter.php:266
+msgid "Suffix 2"
+msgstr ""
+
+#: shortcodes/cms_counter.php:283
+msgid "Prefix 2"
+msgstr ""
+
+#: shortcodes/cms_counter.php:300
+msgid "Counter 3"
+msgstr ""
+
+#: shortcodes/cms_counter.php:314
+msgid "Title Counter 3"
+msgstr ""
+
+#: shortcodes/cms_counter.php:330
+msgid "Counter Type 3"
+msgstr ""
+
+#: shortcodes/cms_counter.php:348
+msgid "Icon Counter 3"
+msgstr ""
+
+#: shortcodes/cms_counter.php:368
+msgid "Digit 3"
+msgstr ""
+
+#: shortcodes/cms_counter.php:384
+msgid "Suffix 3"
+msgstr ""
+
+#: shortcodes/cms_counter.php:400
+msgid "Prefix 3"
+msgstr ""
+
+#: shortcodes/cms_counter.php:416
+msgid "Counter 4"
+msgstr ""
+
+#: shortcodes/cms_counter.php:429
+msgid "Title Counter 4"
+msgstr ""
+
+#: shortcodes/cms_counter.php:444
+msgid "Counter Type 4"
+msgstr ""
+
+#: shortcodes/cms_counter.php:461
+msgid "Icon Counter 4"
+msgstr ""
+
+#: shortcodes/cms_counter.php:480
+msgid "Digit 4"
+msgstr ""
+
+#: shortcodes/cms_counter.php:495
+msgid "Suffix 4"
+msgstr ""
+
+#: shortcodes/cms_counter.php:510
+msgid "Prefix 4"
+msgstr ""
+
+#: shortcodes/cms_counter.php:525
+msgid "Counter 6"
+msgstr ""
+
+#: shortcodes/cms_counter.php:535
+msgid "Title Counter 6"
+msgstr ""
+
+#: shortcodes/cms_counter.php:549
+msgid "Counter Type 6"
+msgstr ""
+
+#: shortcodes/cms_counter.php:563
+msgid "Icon Counter 6"
+msgstr ""
+
+#: shortcodes/cms_counter.php:581
+msgid "Digit 6"
+msgstr ""
+
+#: shortcodes/cms_counter.php:593
+msgid "Prefix 6"
+msgstr ""
+
+#: shortcodes/cms_counter.php:605
+msgid "Suffix 6"
+msgstr ""
+
+#: shortcodes/cms_counter_single.php:4
+msgid "CMS Counter Single"
+msgstr ""
+
+#: shortcodes/cms_counter_single.php:40
+msgid "Title Counter"
+msgstr ""
+
+#: shortcodes/cms_counter_single.php:47
+msgid "Counter Type"
+msgstr ""
+
+#: shortcodes/cms_counter_single.php:76 shortcodes/cms_counter_single.php:93
+#: shortcodes/cms_counter_single.php:110 shortcodes/cms_counter_single.php:127
+#: shortcodes/cms_counter_single.php:144 shortcodes/cms_counter_single.php:161
+#: shortcodes/cms_counter_single.php:178 shortcodes/cms_counter_single.php:195
+#: shortcodes/cms_counter_single.php:212 shortcodes/cms_fancybox_single.php:59
+#: shortcodes/cms_fancybox_single.php:76 shortcodes/cms_fancybox_single.php:93
+#: shortcodes/cms_fancybox_single.php:110
+#: shortcodes/cms_fancybox_single.php:127
+#: shortcodes/cms_fancybox_single.php:144
+#: shortcodes/cms_fancybox_single.php:161
+#: shortcodes/cms_fancybox_single.php:178
+#: shortcodes/cms_fancybox_single.php:195
+msgid "Icon Item"
+msgstr ""
+
+#: shortcodes/cms_counter_single.php:230
+msgid "Digit"
+msgstr ""
+
+#: shortcodes/cms_counter_single.php:238
+msgid "Suffix"
+msgstr ""
+
+#: shortcodes/cms_counter_single.php:246
+msgid "Prefix"
+msgstr ""
+
+#: shortcodes/cms_fancybox.php:4
+msgid "CMS Fancy Box"
+msgstr ""
+
+#: shortcodes/cms_fancybox.php:14 shortcodes/cms_fancybox_single.php:14
+msgid "Title Of Fancy Icon Box"
+msgstr ""
+
+#: shortcodes/cms_fancybox.php:22 shortcodes/cms_fancybox_single.php:22
+msgid "Description Of Fancy Icon Box"
+msgstr ""
+
+#: shortcodes/cms_fancybox.php:48 shortcodes/cms_fancybox.php:65
+#: shortcodes/cms_fancybox.php:87 shortcodes/cms_fancybox.php:103
+#: shortcodes/cms_fancybox.php:121 shortcodes/cms_fancybox.php:137
+#: shortcodes/cms_fancybox.php:155 shortcodes/cms_fancybox.php:170
+#: shortcodes/cms_fancybox.php:191 shortcodes/cms_fancybox.php:206
+#: shortcodes/cms_fancybox.php:223 shortcodes/cms_fancybox.php:238
+#: shortcodes/cms_fancybox.php:255 shortcodes/cms_fancybox.php:269
+#: shortcodes/cms_fancybox.php:289 shortcodes/cms_fancybox.php:303
+#: shortcodes/cms_fancybox.php:319 shortcodes/cms_fancybox.php:333
+#: shortcodes/cms_fancybox.php:349 shortcodes/cms_fancybox.php:362
+#: shortcodes/cms_fancybox.php:381 shortcodes/cms_fancybox.php:394
+#: shortcodes/cms_fancybox.php:409 shortcodes/cms_fancybox.php:422
+#: shortcodes/cms_fancybox.php:437 shortcodes/cms_fancybox.php:447
+#: shortcodes/cms_fancybox.php:463 shortcodes/cms_fancybox.php:473
+#: shortcodes/cms_fancybox.php:487 shortcodes/cms_fancybox.php:497
+#: shortcodes/cms_fancybox.php:511 shortcodes/cms_fancybox.php:521
+#: shortcodes/cms_fancybox.php:537 shortcodes/cms_fancybox.php:547
+#: shortcodes/cms_fancybox.php:561 shortcodes/cms_fancybox.php:571
+#: shortcodes/cms_fancybox.php:585 shortcodes/cms_fancybox_single.php:55
+#: shortcodes/cms_fancybox_single.php:72 shortcodes/cms_fancybox_single.php:89
+#: shortcodes/cms_fancybox_single.php:106
+#: shortcodes/cms_fancybox_single.php:123
+#: shortcodes/cms_fancybox_single.php:140
+#: shortcodes/cms_fancybox_single.php:157
+#: shortcodes/cms_fancybox_single.php:174
+#: shortcodes/cms_fancybox_single.php:191
+#: shortcodes/cms_fancybox_single.php:208
+#: shortcodes/cms_fancybox_single.php:215
+#: shortcodes/cms_fancybox_single.php:223
+#: shortcodes/cms_fancybox_single.php:229
+msgid "Fancy Icon Settings"
+msgstr ""
+
+#: shortcodes/cms_fancybox.php:53
+msgid "Fancy Box 1"
+msgstr ""
+
+#: shortcodes/cms_fancybox.php:69
+msgid "Icon Item 1"
+msgstr ""
+
+#: shortcodes/cms_fancybox.php:91
+msgid "Image Item 1"
+msgstr ""
+
+#: shortcodes/cms_fancybox.php:107
+msgid "Title Item 1"
+msgstr ""
+
+#: shortcodes/cms_fancybox.php:125
+msgid "Content Item 1"
+msgstr ""
+
+#: shortcodes/cms_fancybox.php:141
+msgid "Link 1"
+msgstr ""
+
+#: shortcodes/cms_fancybox.php:159
+msgid "Fancy Box 2"
+msgstr ""
+
+#: shortcodes/cms_fancybox.php:174
+msgid "Icon Item 2"
+msgstr ""
+
+#: shortcodes/cms_fancybox.php:195
+msgid "Image Item 2"
+msgstr ""
+
+#: shortcodes/cms_fancybox.php:210
+msgid "Title Item 2"
+msgstr ""
+
+#: shortcodes/cms_fancybox.php:227
+msgid "Content Item 2"
+msgstr ""
+
+#: shortcodes/cms_fancybox.php:242
+msgid "Link 2"
+msgstr ""
+
+#: shortcodes/cms_fancybox.php:259
+msgid "Fancy Box 3"
+msgstr ""
+
+#: shortcodes/cms_fancybox.php:273
+msgid "Icon Item 3"
+msgstr ""
+
+#: shortcodes/cms_fancybox.php:293
+msgid "Image Item 3"
+msgstr ""
+
+#: shortcodes/cms_fancybox.php:307
+msgid "Title Item 3"
+msgstr ""
+
+#: shortcodes/cms_fancybox.php:323
+msgid "Content Item 3"
+msgstr ""
+
+#: shortcodes/cms_fancybox.php:337
+msgid "Link 3"
+msgstr ""
+
+#: shortcodes/cms_fancybox.php:353
+msgid "Fancy Box 4"
+msgstr ""
+
+#: shortcodes/cms_fancybox.php:366
+msgid "Icon Item 4"
+msgstr ""
+
+#: shortcodes/cms_fancybox.php:385
+msgid "Image Item 4"
+msgstr ""
+
+#: shortcodes/cms_fancybox.php:398
+msgid "Title Item 4"
+msgstr ""
+
+#: shortcodes/cms_fancybox.php:413
+msgid "Content Item 4"
+msgstr ""
+
+#: shortcodes/cms_fancybox.php:426
+msgid "Link 4"
+msgstr ""
+
+#: shortcodes/cms_fancybox.php:441
+msgid "Fancy Box 5"
+msgstr ""
+
+#: shortcodes/cms_fancybox.php:451
+msgid "Icon Item 5"
+msgstr ""
+
+#: shortcodes/cms_fancybox.php:467
+msgid "Image Item 5"
+msgstr ""
+
+#: shortcodes/cms_fancybox.php:477
+msgid "Title Item 5"
+msgstr ""
+
+#: shortcodes/cms_fancybox.php:491
+msgid "Content Item 5"
+msgstr ""
+
+#: shortcodes/cms_fancybox.php:501
+msgid "Link 5"
+msgstr ""
+
+#: shortcodes/cms_fancybox.php:515
+msgid "Fancy Box 6"
+msgstr ""
+
+#: shortcodes/cms_fancybox.php:525
+msgid "Icon Item 6"
+msgstr ""
+
+#: shortcodes/cms_fancybox.php:541
+msgid "Image Item 6"
+msgstr ""
+
+#: shortcodes/cms_fancybox.php:551
+msgid "Title Item 6"
+msgstr ""
+
+#: shortcodes/cms_fancybox.php:565
+msgid "Content Item 6"
+msgstr ""
+
+#: shortcodes/cms_fancybox.php:575
+msgid "Link 6"
+msgstr ""
+
+#: shortcodes/cms_fancybox.php:590 shortcodes/cms_fancybox_single.php:234
+msgid "Button Type"
+msgstr ""
+
+#: shortcodes/cms_fancybox.php:596 shortcodes/cms_fancybox.php:604
+#: shortcodes/cms_fancybox_single.php:240
+#: shortcodes/cms_fancybox_single.php:248
+#: shortcodes/cms_fancybox_single.php:256
+msgid "Buttons Settings"
+msgstr ""
+
+#: shortcodes/cms_fancybox.php:600 shortcodes/cms_fancybox_single.php:252
+msgid "Text"
+msgstr ""
+
+#: shortcodes/cms_fancybox_single.php:4
+msgid "CMS Single Fancy Box"
+msgstr ""
+
+#: shortcodes/cms_fancybox_single.php:213
+msgid "Image Item"
+msgstr ""
+
+#: shortcodes/cms_fancybox_single.php:219
+msgid "Title Item"
+msgstr ""
+
+#: shortcodes/cms_fancybox_single.php:227
+msgid "Content Item"
+msgstr ""
+
+#: shortcodes/cms_fancybox_single.php:244
+msgid "Link"
+msgstr ""
+
+#: shortcodes/cms_grid.php:4
+msgid "CMS Grid"
+msgstr ""
+
+#: shortcodes/cms_grid.php:21
+msgid "Layout Type"
+msgstr ""
+
+#: shortcodes/cms_grid.php:27 shortcodes/cms_grid.php:36
+#: shortcodes/cms_grid.php:45 shortcodes/cms_grid.php:54
+#: shortcodes/cms_grid.php:63 shortcodes/cms_grid.php:77
+msgid "Grid Settings"
+msgstr ""
+
+#: shortcodes/cms_grid.php:31
+msgid "Columns XS Devices"
+msgstr ""
+
+#: shortcodes/cms_grid.php:40
+msgid "Columns SM Devices"
+msgstr ""
+
+#: shortcodes/cms_grid.php:49
+msgid "Columns MD Devices"
+msgstr ""
+
+#: shortcodes/cms_grid.php:58
+msgid "Columns LG Devices"
+msgstr ""
+
+#: shortcodes/cms_grid.php:67
+msgid "Filter on Masonry"
+msgstr ""
+
+#: shortcodes/cms_progressbar.php:4
+msgid "CMS Progress Bar"
+msgstr ""
+
+#: shortcodes/cms_progressbar.php:11
+msgid "Mode"
+msgstr ""
+
+#: shortcodes/cms_progressbar.php:17 shortcodes/cms_progressbar.php:26
+#: shortcodes/cms_progressbar.php:43 shortcodes/cms_progressbar.php:60
+#: shortcodes/cms_progressbar.php:77 shortcodes/cms_progressbar.php:94
+#: shortcodes/cms_progressbar.php:111 shortcodes/cms_progressbar.php:128
+#: shortcodes/cms_progressbar.php:145 shortcodes/cms_progressbar.php:162
+#: shortcodes/cms_progressbar.php:174 shortcodes/cms_progressbar.php:183
+#: shortcodes/cms_progressbar.php:189 shortcodes/cms_progressbar.php:197
+#: shortcodes/cms_progressbar.php:205 shortcodes/cms_progressbar.php:214
+#: shortcodes/cms_progressbar.php:223 shortcodes/cms_progressbar.php:230
+#: shortcodes/cms_progressbar.php:241
+msgid "Progress Bar Settings"
+msgstr ""
+
+#: shortcodes/cms_progressbar.php:21
+msgid "Item Title"
+msgstr ""
+
+#: shortcodes/cms_progressbar.php:47 shortcodes/cms_progressbar.php:64
+#: shortcodes/cms_progressbar.php:81 shortcodes/cms_progressbar.php:98
+#: shortcodes/cms_progressbar.php:115 shortcodes/cms_progressbar.php:132
+#: shortcodes/cms_progressbar.php:149
+msgid "Icon"
+msgstr ""
+
+#: shortcodes/cms_progressbar.php:167
+msgid "Show Value"
+msgstr ""
+
+#: shortcodes/cms_progressbar.php:180
+msgid "Value"
+msgstr ""
+
+#: shortcodes/cms_progressbar.php:188
+msgid "Value Suffix"
+msgstr ""
+
+#: shortcodes/cms_progressbar.php:195
+msgid "Background Color Bar"
+msgstr ""
+
+#: shortcodes/cms_progressbar.php:199
+msgid "Background color for wrapper bar. Default is #e9e9e9"
+msgstr ""
+
+#: shortcodes/cms_progressbar.php:203
+msgid "Progress Color"
+msgstr ""
+
+#: shortcodes/cms_progressbar.php:206
+msgid "Background color for progress."
+msgstr ""
+
+#: shortcodes/cms_progressbar.php:211
+msgid "Width"
+msgstr ""
+
+#: shortcodes/cms_progressbar.php:220
+msgid "Height"
+msgstr ""
+
+#: shortcodes/cms_progressbar.php:228
+msgid "Border Radius"
+msgstr ""
+
+#: shortcodes/cms_progressbar.php:235
+msgid "Striped"
+msgstr ""

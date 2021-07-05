@@ -1,0 +1,158 @@
+body {
+    font-family: $font_body;
+    font-size: $font_size_body;
+    line-height: $line_height_body;
+    color: $color_body;
+}
+a {
+    @include transition( color 300ms ease );
+    &:focus {
+        outline: none;
+    }
+    &.link-underline {
+        text-decoration: none;
+        border-bottom: 2px solid transparent;
+        @include transition( color 300ms, border-color 300ms );
+
+        &:hover,
+        &:focus {
+            border-bottom-color: initial;
+        }
+    }
+}
+
+.link-underline {
+    color: #333;
+    &.border-visible {
+        border-bottom-color: #333;
+    }
+    &:hover,
+    &:focus {
+        color: initial;
+    }
+}
+
+img,
+figure,
+embed,
+iframe,
+object {
+    width: auto;
+    max-width: 100%;
+    height: auto;
+}
+
+img {
+    -ms-interpolation-mode: bicubic;
+}
+
+p,
+ul,
+ol,
+dl,
+table,
+pre,
+address,
+blockquote {
+    margin-top: 0;
+    margin-bottom: 24px;
+}
+blockquote {
+    margin: 0 0 1.5em;
+    font-size: 20px;
+    line-height: 28px;
+    font-style: italic;
+    padding-top: 24px;
+    padding-bottom: 21px;
+    padding-left: 30px;
+    border-left: 6px solid #222;
+    cite {
+        color: #282828;
+        display: block;
+        margin-top: 8px;
+        font-size: 13px;
+        font-style: normal;
+    }
+
+}
+
+dfn, cite, em, i {
+    font-style: italic;
+}
+
+pre, code, kbd, tt, var {
+    font-family: Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace;
+    font-size: 93.75%;
+}
+pre {
+    background-color: #F2F2F2;
+    max-width: 100%;
+    overflow: auto;
+    padding: 12px 16px;
+}
+
+abbr, acronym {
+    border-bottom: 1px dotted #999999;
+    cursor: help;
+}
+
+mark, ins {
+    background-color: #fff9c0;
+    text-decoration: none;
+}
+
+big {
+    font-size: 125%;
+}
+
+small {
+    font-size: 75%;
+}
+
+ul ul,
+ol ul,
+ul ol,
+ol ol {
+    margin-bottom: 0;
+}
+
+dt {
+    font-weight: bold;
+}
+
+dd {
+    margin: 0 16px 16px;
+}
+
+table {
+    width: 100%;
+    th,
+    td {
+        padding: 10px;
+        border: 1px solid #EEE;
+    }
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 0;
+    font-weight: 700;
+    margin-bottom: 10px
+}
+
+hr {
+    background-color: #EEE;
+    border: 0;
+    height: 1px;
+    margin-bottom: 24px;
+}
+
+#page {
+    position: relative;
+    overflow: hidden;
+}
+
+@media ( min-width: 1280px ) {
+    .container {
+        width: 1200px;
+    }
+}

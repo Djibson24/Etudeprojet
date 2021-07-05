@@ -1,0 +1,72 @@
+.wpb_el_type_cms_template_img .cms-img-select {
+    border: 4px solid #EEE;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    opacity: 0.8;
+}
+.wpb_el_type_cms_template_img .cms-img-select:hover {
+    border-color: #CCC;
+    opacity: 1;
+}
+.wpb_el_type_cms_template_img .cms-img-select.selected {
+    border-color: #32A0DF;
+    opacity: 1;
+}
+.vc_element-icon.cms-vc-icon {
+    background-image: url(../images/vc_element_icons.png);
+}
+.vc_element-icon.cms-vc-icon-counter,
+.vc_element-icon.cms-vc-icon-counter[data-is-container=true] {
+    background-position: 0 0;
+}
+
+.vc_element-icon.cms-vc-icon-work-process,
+.vc_element-icon.cms-vc-icon-work-process[data-is-container=true] {
+    background-position: 0 -32px;
+}
+
+.nav-menus-php .icon-list:before,
+.nav-menus-php .icon-list:after {
+    content: "";
+    display: table;
+}
+.nav-menus-php .icon-list:after {
+    clear: both;
+}
+.nav-menus-php .icon-list li {
+    text-align: center;
+    margin-bottom: 0px;
+    display: block;
+    position: relative;
+    height: 44px;
+    width: 44px;
+    line-height: 44px;
+    float: left;
+    cursor: pointer;
+    font-size: 20px;
+    border: 1px solid transparent;
+    border-radius: 2px;
+}
+.nav-menus-php .icon-list li:hover,
+.nav-menus-php .icon-list li.selected {
+    background-color: #f8f8f8;
+    cursor: pointer;
+    border-color: #000;
+}
+
+.nav-menus-php .thickbox-icon-preview {
+    margin-top: 15px;
+    margin-left: 0;
+
+}
+.nav-menus-php .thickbox-icon-preview i {
+    display: block;
+    font-size: 32px;
+    line-height: 52px;
+    width: 52px;
+    height: 52px;
+    border: 1px solid #333;
+    border-radius: 3px;
+    background-color: #F8F8F8;
+    text-align: center;
+}

@@ -1,0 +1,36 @@
+.menu-item-settings .description-thin-one-fourth {
+    margin-right: 10px;
+    float: left;
+    width: 90px;
+}
+.menu-item-settings .icon-preview {
+    display: inline-block;
+    font-size: 14px;
+    line-height: 26px;
+    height: 28px;
+    border-radius: 3px;
+    border: 1px solid #dcdcdc;
+    background-color: #FAFAFA;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.menu-item-settings .field-type-color-picker .alpha-container {
+    border-radius: 0;
+    border: 1px solid #dfdfdf;
+    padding: 6px;
+    background: #fff;
+    position: absolute;
+    width: 243px;
+    left: -1px;
+    z-index: 1000;
+    bottom: -64px;
+}
+.menu-item-settings .field-type-color-picker .alpha-container label {
+    display: block;
+    margin-top: 5px;
+}
+.menu-item-settings .field-type-color-picker .alpha-container input {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}

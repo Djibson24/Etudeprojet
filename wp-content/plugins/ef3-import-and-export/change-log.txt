@@ -1,0 +1,12 @@
+09.01.2020:
+- Fix export options (theme options)
+- Fix import/export revslider
+
+=============================================
+
+27.03.2020:
+- Fix import custom postypes UI: 
+Fix function cptui_import_types_taxes_settings, add the nonce field when send request
+wp_nonce_field( 'cptui_typetaximport_nonce_action', 'cptui_typetaximport_nonce_field' );
+
+=============================================
